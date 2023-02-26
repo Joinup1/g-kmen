@@ -1,0 +1,2 @@
+# g-kmen
+Mavi tik
